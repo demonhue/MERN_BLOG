@@ -33,8 +33,7 @@ There is a Heroku post build script so that you do not have to compile your Reac
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+[Abhishek Anand](https://github.com/demonhue)
 
 ### Version
 
